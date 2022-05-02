@@ -8,3 +8,4 @@ var  nm = 600
 
 var m = 500
 var jh = "可以一起放风筝吗"
+var hg = "你是谁啊"
