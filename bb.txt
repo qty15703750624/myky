@@ -7,5 +7,3 @@ var c = 400
 var  nm = 600
 
 var m = 500
-
-var jk = '你们好奇怪啊'
