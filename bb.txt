@@ -3,4 +3,7 @@ var a =100
 var b = 200
 
 var c = 400
+
 var  nm = 600
+
+var m = 500
